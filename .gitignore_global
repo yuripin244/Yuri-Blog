@@ -1,0 +1,28 @@
+#backend
+backend/
+
+# ambiente
+.env
+
+# compilação java
+target/
+
+# logs
+*.log
+
+# sistema
+.DS_Store
+Thumbs.db
+
+# vscode
+.vscode/
+
+# node
+node_modules/
+
+# banco
+*.db
+
+# arquivos temporários
+*.tmp
+*.cache

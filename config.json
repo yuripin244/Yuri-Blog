@@ -1,0 +1,15 @@
+{
+  "blogName": "Yuri Blog",
+  "blogDescription": "Registrando momentos da minha vida e da minha caminhada na programação",
+  "author": "Yuri",
+  "contactEmail": "gangiyuri1@gmail.com",
+  "theme": {
+    "mode": "dark",
+    "primaryColor": "#7a3cff",
+    "neonColor": "#9b5cff"
+  },
+  "features": {
+    "comments": false,
+    "analytics": false
+  }
+}

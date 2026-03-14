@@ -1,0 +1,70 @@
+body {
+
+background: #0d0d0d;
+color: #ffffff;
+
+font-family: Arial, sans-serif;
+
+margin:0;
+padding:0;
+
+text-align:center;
+
+}
+
+header {
+
+padding:30px;
+
+}
+
+nav button {
+
+background:#121212;
+
+color:white;
+
+border:1px solid #444;
+
+padding:10px 20px;
+
+margin:10px;
+
+cursor:pointer;
+
+transition:0.3s;
+
+}
+
+nav button:hover{
+
+color:#9b5cff;
+
+border-color:#9b5cff;
+
+box-shadow:
+
+0 0 5px #9b5cff,
+0 0 10px #9b5cff,
+0 0 20px #6c3cff;
+
+}
+
+#posts{
+
+max-width:800px;
+margin:auto;
+
+}
+
+.post{
+
+background:#141414;
+
+padding:20px;
+
+margin:20px;
+
+border-radius:10px;
+
+}
